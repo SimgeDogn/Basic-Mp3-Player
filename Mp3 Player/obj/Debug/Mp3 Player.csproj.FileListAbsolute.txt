@@ -1,0 +1,20 @@
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.exe.config
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.exe.manifest
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.application
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.exe
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.pdb
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.AssemblyReference.cache
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.ResolveComReference.cache
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3_Player.Form1.resources
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3_Player.Properties.Resources.resources
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.GenerateResource.cache
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.CoreCompileInputs.cache
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.exe.manifest
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.application
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.exe
+C:\Users\simge\OneDrive\Masaüstü\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.pdb
